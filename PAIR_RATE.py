@@ -20,8 +20,9 @@ Cy=0.0497
 Dy=0.01641
 
 n1=(Ay+(By/(1-Cy*(L1**-2)))-Dy*(L1**2))**0.5 #for pump
-n2=(Ay+(By/(1-Cy*(L2**-2)))-Dy*(L2**2))**0.5 
+n2=(Ay+(By/(1-Cy*(L2**-2)))-Dy*(L2**2))**0.5 #rishab
 kbgugubj=88888
+tefehgeg=00
 
 a0=9.9587*10**-6    #n1(Z) values
 a1=9.9228*10**-6
